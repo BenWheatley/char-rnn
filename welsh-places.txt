@@ -1,0 +1,322 @@
+Cardiff
+Swansea
+Newport
+Merthyr Tydfil
+Wrexham
+Barry
+Neath
+Cwmbran
+Bridgend
+Llanelli
+Caerphilly
+Port Talbot
+Pontypridd
+Aberdare
+Colwyn Bay
+Pontypool
+Penarth
+Rhyl
+Blackwood
+Buckley
+Ystrad Mynach
+Maesteg
+Ebbw Vale
+Aberystwyth
+Bangor
+Tonypandy
+Gelligaer
+Prestatyn
+Shotton
+Connah's Quay
+Carmarthen
+Gorseinon
+Porthcawl
+Llandudno
+Risca
+Flint
+Tredegar
+Porth
+Haverfordwest
+Church Village
+Pyle
+Milford Haven
+Rhosllannerchrugog
+Abergavenny
+Rhondda
+Llantrisant
+Chepstow
+Pontardawe
+Bargoed
+Holyhead
+Newtown
+Mountain Ash
+Caldicot
+Abertillery
+Sarn
+Llandudno Junction/Deganwy
+Ystradgynlais/Ystalyfera
+Monmouth
+Mold
+Holywell
+Pembroke Dock
+Newbridge
+Kinmel Bay
+Caernarfon
+Tonyrefail
+Pontllanfraith
+Abergele
+Pencoed
+Pontarddulais
+Caerleon
+Denbigh
+Bedwas
+Brecon
+Llantwit Major
+Beddau
+Ammanford
+Treharris
+Treorchy
+Pembroke
+Dinas Powys
+Ferndale
+Cefn-mawr
+Sandycroft
+Llanharan
+Abertridwr/Senghenydd
+Rhoose
+Burry Port
+Abercynon
+Welshpool
+Briton Ferry
+Magor
+Crumlin
+Coedpoeth
+Penygroes
+Blaenavon
+Taff's Well
+RAF Station St Athan
+Brynmawr
+Ruthin
+Aberavon
+Treherbert
+Ewloe
+Cwmafan
+Abercarn
+Llandrindod Wells
+Rhymney
+Saltney
+Gresford
+Menai Bridge
+Llangefni
+Blaina
+Tenby
+Llay
+Nelson
+Nantyglo
+Penrhyn Bay
+Glanaman
+Llangennech
+Tumble
+Pontycymer
+Hope/Caergwrle
+Glyn-Neath
+New Tredegar
+Cardigan
+Bagillt
+Pwllheli
+Glyncoch
+Chirk
+Conwy
+Cowbridge
+Bethesda
+Tycroes
+Llanbradach
+Rhuddlan
+Neyland
+Blaenau Ffestiniog
+Tylorstown
+Llanfairfechan
+Penyffordd
+Aberfan
+Ynysybwl
+Bishopston
+Llangollen
+Fishguard
+Ruabon
+St Asaph
+Llanrwst
+Amlwch
+Penparcau
+Ogmore Vale
+Llanfairpwll
+Tywyn
+Gwaun-Cae-Gurwen
+Llanharry
+Knighton
+Llanhilleth
+Porthmadog
+Lampeter
+Llanidloes
+Usk
+Builth Wells
+Llandybie
+Crickhowell
+Kidwelly
+Saundersfoot
+Rhostyllen
+Cwm
+Dolgellau
+Brynaman
+Penmaenmawr
+Hendreforgan
+Creigiau
+Machen
+Valley
+Nant-y-Moel
+Corwen
+Marshfield
+Barmouth
+Pentyrch
+Y Felinheli
+Leeswood
+Dyserth
+Narberth
+Gilwern
+Benllech
+Machynlleth
+Pembrey
+Seven Sisters
+Queensferry
+Resolven
+Llandovery
+Presteigne
+Rossett
+Southgate
+St Clears
+Bala
+Johnston
+Penclawdd
+Pontlottyn
+Gilfach Goch
+Llanrug
+Newcastle Emlyn
+Llanberis
+Rhayader
+Rogiet
+Llanfair Caereinion
+Llandeilo
+Bodelwyddan
+Penygroes
+Whitland
+Criccieth
+Glan Conwy
+Goodwick
+Soughton
+Pontyberem
+Pontlliw
+Talgarth
+Llanybydder
+Mostyn
+Crynant
+Trimsaran
+Bow Street
+Croeserw
+Penrhyndeudraeth
+Trearddur Bay
+Northop Hall
+Cilgerran
+Llangynwyd/Pont-rhyd-y-cyff
+Llanfyllin
+Hay-on-Wye
+Abertysswg
+Trevor
+Harlech
+Llandysul
+Aberaeron
+St David's
+Cwmllynfell
+Pwll
+Fernhill
+Deiniolen
+Nefyn
+Beaumaris
+Dwygyfylchi
+Whelston
+Penrhyncoch
+Caerwys/Afonwen
+Tregarth
+Llanddulas
+Efail Isaf
+Montgomery
+Aberporth
+Llanfoist
+New Quay
+Waunfawr
+Cemaes Bay
+Tregaron
+Bethel
+Gaerwen
+Brynsadler
+Blaengwrach
+Llanerchymedd
+Penybanc
+St Dogmaels
+Holt
+Talysarn
+Mynydd Marian
+Bodedern
+Rhosneigr
+Aberbargoed
+Bontnewydd
+Rachub
+Gwernaffield-y-Waun
+Newborough
+Groeslon
+Llan Ffestiniog
+Morfa Nefyn
+Llangoed
+Pontrhydyfen
+Pantymwyn
+Laugharne
+Trefor
+Abersoch
+Llanfihangel-yn-Nhowyn
+Castleton
+Aberdyfi
+Gwalchmai
+Fairbourne
+Rhosybol
+Moelfre
+Llanddona
+Rhostryfan
+Pwll Trap
+Llanbadarn Fawr
+Chwilog
+Trawsfynydd
+Templeton
+Llanbedrog
+Trefriw
+Dwyran
+Llanwrtyd Wells
+Penysarn
+New Hedges
+Llanfechell
+Pentraeth
+Cymmer
+Mynytho
+Llwyngwril
+Bryn Pydew
+Dolgarrog
+Sydall
+Parcllyn
+Bryngwran
+Pentre Berw
+Llanbedr
+Llangristiolus
+Caergeiliog
+Llysfaen
+Betws-yn-Rhos
+Cerrigydrudion
+Pulford
+Betws-y-Coed
+Malltraeth

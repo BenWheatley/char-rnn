@@ -2,7 +2,7 @@
 
 import matplotlib.pyplot as plt
 
-file = open("limerick_x100_iter_loss.txt", "r")
+file = open("Limerick 2/limerick_x100_iter_loss.txt", "r")
 
 numbers = []
 

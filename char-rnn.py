@@ -8,8 +8,16 @@ Forked from: https://gist.github.com/karpathy/d4dee566867f8291f086
 import numpy as np
 import argparse
 
+parser = argparse.ArgumentParser()
+parser.add_argument("source", help="the source file to use to train the RNN")
+parser.add_argument("--hidden_size", help="(int) size of layer of hidden neurons, default = 100", type=int)
+parser.add_argument("--seq_length", help="(int) number of steps to unroll the RNN for, default = 25", type=int)
+parser.add_argument("--learning_rate", help="(float) learning rate, default = 1e-1", type=float)
+
+args = parser.parse_args()
+
 # data I/O
-data = open('The Project Gutenberg eBook, A Book of Nonsense, by Edward Lear.txt', 'r').read() # should be simple plain text file
+data = open(args.source, 'r').read() # should be simple plain text file
 chars = list(set(data))
 data_size, vocab_size = len(data), len(chars)
 print 'data has %d characters, %d unique.' % (data_size, vocab_size)
@@ -20,6 +28,14 @@ ix_to_char = { i:ch for i,ch in enumerate(chars) }
 hidden_size = 100 # size of hidden layer of neurons
 seq_length = 25 # number of steps to unroll the RNN for
 learning_rate = 1e-1
+
+# Replace default hyperparameters if they were specified as arguments
+if args.hidden_size:
+	hidden_size = args.hidden_size
+if args.seq_length:
+	seq_length = args.seq_length
+if args.learning_rate:
+	learning_rate = args.learning_rate
 
 # model parameters
 Wxh = np.random.randn(hidden_size, vocab_size)*0.01 # input to hidden

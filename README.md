@@ -2,9 +2,9 @@
 Character based RNN experiment, forked from https://gist.github.com/karpathy/d4dee566867f8291f086
 
 Graph of loss function (Y-axis) on limerics data set, with default settings. X-axis is measured in 100s of iterations:
-![Graph](https://github.com/BenWheatley/char-rnn/blob/master/figure_1.png)
+![Graph](https://github.com/BenWheatley/char-rnn/blob/master/Limerick%201/figure_1.png)
 
-Sample output:
+Sample output with default hyperparameters:
 
 ```
 ----

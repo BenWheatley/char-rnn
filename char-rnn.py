@@ -14,10 +14,15 @@ parser.add_argument("--hidden_size", help="(int) size of layer of hidden neurons
 parser.add_argument("--seq_length", help="(int) number of steps to unroll the RNN for, default = 25", type=int)
 parser.add_argument("--learning_rate", help="(float) learning rate, default = 1e-1", type=float)
 
+parser.add_argument('--words', help="if present, will process source at word level; if not present, will process source at character level", default=False, dest='words', action='store_true')
+
 args = parser.parse_args()
 
 # data I/O
 data = open(args.source, 'r').read() # should be simple plain text file
+if args.words:
+	import re
+	data = re.split("\W", data)
 chars = list(set(data))
 data_size, vocab_size = len(data), len(chars)
 print 'data has %d characters, %d unique.' % (data_size, vocab_size)
@@ -113,7 +118,8 @@ while True:
   # sample from the model now and then
   if n % 100 == 0:
     sample_ix = sample(hprev, inputs[0], 400)
-    txt = ''.join(ix_to_char[ix] for ix in sample_ix)
+    joiner = " " if args.words else ''
+    txt = joiner.join(ix_to_char[ix] for ix in sample_ix)
     print '----\n %s \n----' % (txt, )
 
   # forward seq_length characters through the net and fetch gradient
